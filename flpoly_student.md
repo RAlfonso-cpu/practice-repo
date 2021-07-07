@@ -1,27 +1,24 @@
-## First Name Last Name
-
-### Term Year 
+## Ryan Alfonso
+### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science(SU B 2021_COP2073.01OL I&T)
 
-- Course 2
+- Precalculus Algebra/Trigonometry(SU B 2021_MAC1147.01OL GEMTH)
 
-- Course 3
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Science
 
-- Thing 2
+- Sports
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- the gym<https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
